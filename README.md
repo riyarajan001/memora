@@ -1,16 +1,68 @@
-# memora_flutter
+# MEMORA – Mild Cognitive Impairment Care System
 
-A new Flutter project.
+MEMORA is an AI-powered care system designed to support people living with Mild Cognitive Impairment (MCI). It helps users manage daily activities, reminders, journals, medical information, and emergency situations while providing caregivers with useful monitoring support.
 
-## Getting Started
+## 🧠 About MEMORA
 
-This project is a starting point for a Flutter application.
+Mild Cognitive Impairment can affect memory and thinking abilities, making everyday tasks such as remembering medicines, meals, and appointments more difficult. MEMORA aims to provide a simple digital solution that supports patients in their daily routines and helps caregivers stay informed.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Key Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🧠 AI Memory Journal
+- ⏰ Medicine and activity reminders
+- 💬 AI-powered companion support
+- 📍 Familiar places and faces
+- 🚨 Emergency SOS alerts
+- 👩‍⚕️ Caregiver monitoring
+- 💊 Medicine and meal tracking
+- 📋 Medical history management
+- 📊 Patient activity monitoring
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👥 User Roles
+
+### Patient
+- Receive reminders
+- Record daily journals
+- Access medical information
+- Send emergency SOS alerts
+
+### Caretaker
+- Monitor patient activities
+- Manage reminders
+- View patient journals
+- Receive emergency alerts
+- Monitor multiple patients
+
+### Admin
+- Manage user accounts
+- Maintain system data
+- Monitor system activities
+- View reports and complaints
+
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- Python
+- Django
+- SQL
+- HTML
+- Twilio
+
+## 🎯 Objective
+
+The main objective of MEMORA is to improve patient safety and independence while reducing the monitoring burden on caregivers through smart reminders, digital assistance, and emergency support.
+
+## 🚀 Future Scope
+
+- Integration with wearable devices
+- AI-based prediction of cognitive decline
+- Hospital system connectivity
+- Expansion of mobile application features
+
+## 👩‍💻 Developer
+
+**Riya Rajan**
+
+BCA Final Year Project  
+MES Asmabi College – University of Calicut
